@@ -1,1 +1,1 @@
-# Library-Management-System-LMS
+ The Library Management System (LMS) is developed for transforming manual offline workload into online automatic system. It contains all the main features such as adding and managing students, books with efficiently maintaining their data.
